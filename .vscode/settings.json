@@ -1,0 +1,8 @@
+{
+    "python.defaultInterpreterPath": "python3",
+    "code-runner.executorMap": {
+        "python": "python3 -u"
+    },
+    "code-runner.runInTerminal": true
+}
+
